@@ -1,1 +1,1 @@
-# Computing SYK and Random Matrix Spectram and SFF
+# Computing the SYK and Random Matrix
