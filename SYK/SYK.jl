@@ -53,11 +53,11 @@ id2=[-1 0
       return A
   end        
   function c(n)
-      c=sparse(KroneckerProduct1(n))
+      c=sparse(KroneckerProduct2(n))
       return c
   end
   function c_d(n)
-      cd=sparse(KroneckerProduct2(n))
+      cd=sparse(KroneckerProduct1(n))
       return cd
   end
   function make_ψ()
